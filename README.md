@@ -31,17 +31,13 @@ It is developed as part of the **Compiler Design** field to demonstrate core aut
 ---
 📚 Learning Outcomes
 
-Clear understanding of Finite Automata concepts
-
-Practical implementation of Compiler Design fundamentals
-
-Exposure to Graph Visualization libraries
+- Clear understanding of Finite Automata concepts
+- Practical implementation of Compiler Design fundamentals
+- Exposure to Graph Visualization libraries
 
 ---
 🔮 Future Enhancements
 
-Add syntax tree visualization for expressions
-
-Direct code generation from minimized DFA
-
-Full lexical analyzer pipeline integration
+- Add syntax tree visualization for expressions
+- Direct code generation from minimized DFA
+- Full lexical analyzer pipeline integration
